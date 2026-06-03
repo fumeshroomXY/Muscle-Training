@@ -1,2 +1,2 @@
 # Muscle-Training
-Summarize the key points when do the muscle training
+Summarize the key points when doing the muscle training
